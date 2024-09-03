@@ -40,7 +40,7 @@ const generateApiQueryObject = (
       type: "object",
       isArray,
       schema: {
-        $ref: getSchemaPath(propType),
+        $ref: getSchemaPath(propType), 
       },
     };
   }

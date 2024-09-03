@@ -24,7 +24,7 @@ import Tv from "airbnb/svg/ameneties/tv";
 import WashingMachine from "airbnb/svg/ameneties/washing-machine";
 import Wifi from "airbnb/svg/ameneties/wifi";
 import Workplace from "airbnb/svg/ameneties/workplace";
-
+ 
 export const AmenetiesType = [
   {
     type: "basic",
